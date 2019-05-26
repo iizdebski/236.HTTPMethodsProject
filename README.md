@@ -1,4 +1,4 @@
-# httpMethodsSetUp
+# HTTP Methods Project
 
 https://www.mockapi.io/projects/5cab83bbc85e05001452e9c5
 
